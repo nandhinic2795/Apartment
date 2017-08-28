@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/apartment"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".FirstActivity" >
+
+    <TextView
+        android:id="@+id/txtsm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="@string/amss"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btnoAd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/txtsm"
+        android:layout_marginTop="14dp"
+        android:onClick="onClick"
+        android:text="@string/ad" />
+
+    <Button
+        android:id="@+id/btnoVw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btnoAd"
+        android:layout_alignBottom="@+id/btnoAd"
+        android:layout_toRightOf="@+id/btnoAd"
+        android:onClick="userclick"
+        android:text="@string/tn" />
+
+    <Button
+        android:id="@+id/btnsup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/btnoVw"
+        android:layout_toRightOf="@+id/btnoVw"
+        android:onClick="socClick"
+        android:text="@string/SM" />
+
+</RelativeLayout>

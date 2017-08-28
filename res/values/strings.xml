@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Apartment</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app">UserName</string>
+    <string name="a">Apartment Management System</string>
+    <string name="ad">Admin</string>
+    <string name="tn">Tenant</string>
+    <string name="SM">Society Member</string>
+    <string name="apt">Apartment Management System</string>
+    <string name="title_activity_sec">SecActivity</string>
+    <string name="lgnp">Login Page</string>
+    <string name="usr">User Id</string>
+    <string name="psw">Password</string>
+    <string name="txtid"></string>
+    <string name="txtusr"></string>
+    <string name="ln">Login</string>
+    <string name="cn">Cancel</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="owner">Owner Details</string>
+    <string name="tenate">Tenate Details</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+    <string name="title_activity_fifth">FifthActivity</string>
+    <string name="title_activity_sixth">SixthActivity</string>
+    <string name="title_activity_seventh">SeventhActivity</string>
+    <string name="title_activity_eigth">EigthActivity</string>
+    <string name="title_activity_nineth">NinethActivity</string>
+    <string name="od">Owner Details</string>
+    <string name="on">Name</string>
+    <string name="op">Phone Number</string>
+    <string name="omi">Mail Id</string>
+    <string name="odg">Designation</string>
+    <string name="onb">No Of Blocks</string>
+    <string name="onf">No Of Flats</string>
+    <string name="oad">Add</string>
+    <string name="ovw">View</string>
+    <string name="odel">Delete</string>
+    <string name="oclr">Clear</string>
+    <string name="tname">Name</string>
+    <string name="td">Tenant Details</string>
+    <string name="tdname">Name</string>
+    <string name="tpno">Phone number</string>
+    <string name="tm">Mail id</string>
+    <string name="tdesign">Designation</string>
+    <string name="tfm">Family members</string>
+    <string name="tbn">Block name</string>
+    <string name="tfn">Flat number</string>
+    <string name="tnt">Tenant</string>
+    <string name="tnte">Tenant Details</string>
+    <string name="n"></string>
+    <string name="tna"></string>
+    <string name="add">ADD</string>
+    <string name="del">DELETE</string>
+    <string name="vw">VIEW</string>
+    <string name="up">UPDATE</string>
+    <string name="clr">CLEAR</string>
+    <string name="upd">Update</string>
+    <string name="smd">Society Member Details</string>
+    <string name="title_activity_tenth">TenthActivity</string>
+    <string name="scm">Society Members</string>
+    <string name="am">Association Member</string>
+    <string name="mi">Member Id</string>
+    <string name="si">Secretary Id</string>
+    <string name="sn">Secretary Name</string>
+    <string name="pn">Phone Number</string>
+    <string name="ml">Mail Id</string>
+    <string name="tan"></string>
+    <string name="tmi"></string>
+    <string name="tsi"></string>
+    <string name="tnam"></string>
+    <string name="tpn"></string>
+    <string name="tml"></string>
+    <string name="ba"></string>
+    <string name="bad">Add</string>
+    <string name="bd">Delete</string>
+    <string name="bup">Update</string>
+    <string name="bc">Clear</string>
+    <string name="bvl">View All</string>
+    <string name="bv">View</string>
+    <string name="cm">Complaint Management</string>
+    <string name="fd">Facility details</string>
+    <string name="ov">View All</string>
+    <string name="va">View All</string>
+    <string name="title_activity_eleventh">EleventhActivity</string>
+    <string name="title_activity_twele">TweleActivity</string>
+    <string name="tnd">Tenant Details</string>
+    <string name="cd">Complaint Details</string>
+    <string name="fdd">Facility Details</string>
+    <string name="sm">Society Members</string>
+    <string name="ed">Event Details</string>
+    <string name="md">Maintenance Details</string>
+    <string name="fc">Contact Id</string>
+    <string name="fpn">Person Name</string>
+    <string name="ffn">Facility Name</string>
+
+    <string-array name="facility_arrays">
+        <item>Swimming pool</item>
+        <item>Childrens Park</item>
+        <item>Party Hall</item>
+    </string-array>
+
+    <string name="fda">"Date "</string>
+    <string name="ft">Time</string>
+    <string name="fa">Availability</string>
+    <string name="badd">Add</string>
+    <string name="bupd">Update</string>
+    <string name="bdel">Delete</string>
+    <string name="bve">View</string>
+    <string name="bcl">Clear</string>
+    <string name="bva">View All</string>
+    <string name="cpi">ContactPersonId</string>
+    <string name="cp">ContactPersonId</string>
+    <string name="cpn">ComplaintPerson</string>
+    <string name="toc">TypeOfComplaint</string>
+
+    <string-array name="complaint_arrays">
+        <item>Maintenance Problem</item>
+        <item>Noise Complaints</item>
+        <item>Safety Related Complaints</item>
+    </string-array>
+
+    <string name="d">Description</string>
+    <string name="s">Status</string>
+    <string name="ccpi"></string>
+    <string name="ccp"></string>
+    <string name="ccd"></string>
+    <string name="ccf">Confirm</string>
+    <string name="cpd">Pending</string>
+    <string name="sb">Submit</string>
+    <string name="fcid"></string>
+    <string name="fpname"></string>
+    <string name="fdate"></string>
+    <string name="ftime"></string>
+    <string name="fdc">Check</string>
+    <string name="fs">Submit</string>
+    <string name="fds">Submit</string>
+    <string name="eved">Events Details</string>
+    <string name="evd">Events Details</string>
+    <string name="eevd">Event Details</string>
+    <string name="ecid">Contact  Id</string>
+    <string name="eename">Event Name</string>
+    <string name="edate">Date</string>
+    <string name="eddate">Date</string>
+    <string name="evddate">Date</string>
+    <string name="edt">Time</string>
+    <string name="edd">Date</string>
+    <string name="edtime">Time</string>
+    <string name="evt">Time</string>
+    <string name="et">Time</string>
+    <string name="edi">Invitation</string>
+    <string name="es">Submit</string>
+    <string name="eds">Submit</string>
+    <string name="evds">Submit</string>
+    <string name="esub">Submit</string>
+    <string name="eid"></string>
+    <string name="ename"></string>
+    <string name="eda"></string>
+    <string name="etime"></string>
+    <string name="ei">Invitation</string>
+    <string name="eiv">Invitation</string>
+    <string name="edinv"></string>
+    <string name="title_activity_thirteen">ThirteenActivity</string>
+    <string name="tcd">Complaint Details</string>
+    <string name="tfd">Facility  Details</string>
+    <string name="ctd">Tenant Details</string>
+    <string name="tmd">Maintenance  Details</string>
+    <string name="wid">Worker Id</string>
+    <string name="wname">Worker Name</string>
+    <string name="mcno">Contact No</string>
+    <string name="tow">Type Of Work</string>
+
+    <string-array name="Typeofwork_arrays">
+        <item>Electricity</item>
+        <item>HouseKeeping</item>
+        <item>Plumbing</item>
+    </string-array>
+
+    <string name="wt">Working Time</string>
+
+    <string-array name="Worktime_arrays">
+        <item>6AM-10AM</item>
+        <item>10AM-2PM</item>
+        <item>2PM-6PM</item>
+    </string-array>
+
+    <string name="mid"></string>
+    <string name="mwn"></string>
+    <string name="mno"></string>
+    <string name="mtow"></string>
+    <string name="mwt"></string>
+    <string name="ma">Add</string>
+    <string name="mu">Update</string>
+    <string name="mdel">Delete</string>
+    <string name="mv">View</string>
+    <string name="mc">Clear</string>
+    <string name="mva">View All</string>
+    <string name="amd">Admin Maintained Details</string>
+    <string name="iv">Invitation</string>
+    <string name="inv">Invitation</string>
+    <string name="invn">Invitation Notice</string>
+    <string name="invne">Invitation Notice</string>
+    <string name="in">InvitationNotice</string>
+    <string name="i">Invitation</string>
+    <string name="ivn">Invitation</string>
+    <string name="eed">Event Details</string>
+    <string name="ams">Apartment Management system</string>
+    <string name="aams">Apartment Management System</string>
+    <string name="aammss">Apartment Management System</string>
+    <string name="amss">Apartment Management System</string>
+    <string name="lp">Login Page</string>
+    <string name="amds">Admin Maintained Details</string>
+    <string name="amdd">Admin Maintained Details</string>
+    <string name="amddd">Admin Maintained Details</string>
+    <string name="aad">Admin Details</string>
+    <string name="aadd"></string>
+    <string name="aaa">Admin Details</string>
+    <string name="aa">Admin Details</string>
+    <string name="ccdd">Complaint Details</string>
+    <string name="ttdd">Tenant Details</string>
+    <string name="ttd">Tenant Details</string>
+    <string name="bs">Status</string>
+    <string name="bts">Status</string>
+    <string name="em">Modify</string>
+    <string name="v">View</string>
+    <string name="ev"></string>
+    <string name="smm">Society Member</string>
+    <string name="mmd">Maintenance Details</string>
+    <string name="uid">User</string>
+    <string name="pswd">Password</string>
+    <string name="UID">UserId</string>
+    <string name="ffd">Facility Details</string>
+    <string name="eva">View All</string>
+    <string name="cfn">FlatNumber</string>
+    <string name="fffn">FlatNumber</string>
+    <string name="fvw">ViewAll</string>
+    <string name="ep">Place</string>
+    <string name="ecpn">Contact PhoneNumber</string>
+    <string name="te">Events</string>
+    <string name="title_activity_event">EventActivity</string>
+    <string name="ve">View Events</string>
+    <string name="title_activity_cmpmng">CmpmngActivity</string>
+    <string name="vc">View Complaint</string>
+    <string name="vf">View Facilities</string>
+    <string name="vtcfd">View Tenant Complaints and Facility Details</string>
+    <string name="vcfd">View Complaint and Facility Details</string>
+    <string name="chk">Check</string>
+    <string name="title_activity_report">ReportActivity</string>
+    <string name="r">Report</string>
+    <string name="fn">Flat No</string>
+    <string name="rdt">Date</string>
+    <string name="rt">Time</string>
+    <string name="rv">View</string>
+    <string name="cdate">Date</string>
+
+</resources>
